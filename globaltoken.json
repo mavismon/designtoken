@@ -1,0 +1,522 @@
+{
+  "Core tokens/Default": {
+    "Core Tokens": {
+      "color": {
+        "Primary Light": {
+          "value": "#f6e6e7",
+          "type": "color"
+        },
+        "Primary Light :hover": {
+          "value": "#f2d9da",
+          "type": "color"
+        },
+        "Primary Light :active": {
+          "value": "#e3b0b3",
+          "type": "color"
+        },
+        "Primary Normal": {
+          "value": "#a5000b",
+          "type": "color"
+        },
+        "Primary Normal :hover": {
+          "value": "#95000a",
+          "type": "color"
+        },
+        "Primary Normal :active": {
+          "value": "#840009",
+          "type": "color"
+        },
+        "Primary Dark": {
+          "value": "#7c0008",
+          "type": "color"
+        },
+        "Primary Dark :hover": {
+          "value": "#630007",
+          "type": "color"
+        },
+        "Primary Dark :active": {
+          "value": "#4a0005",
+          "type": "color"
+        },
+        "Primary Darker": {
+          "value": "#3a0004",
+          "type": "color"
+        },
+        "Secondary Light": {
+          "value": "#e6e6e6",
+          "type": "color"
+        },
+        "Secondary Light :hover": {
+          "value": "#d9d9d9",
+          "type": "color"
+        },
+        "Secondary Light :active": {
+          "value": "#b0b0b0",
+          "type": "color"
+        },
+        "Secondary Normal": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "Secondary Normal :hover": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "Secondary Normal :active": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "Secondary Dark": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "Secondary Dark :hover": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "Secondary Dark :active": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "Secondary Darker": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "Information Light": {
+          "value": "#f6f2e6",
+          "type": "color"
+        },
+        "Information Light :hover": {
+          "value": "#f2ecd9",
+          "type": "color"
+        },
+        "Information Light :active": {
+          "value": "#e3d7b0",
+          "type": "color"
+        },
+        "Information Normal": {
+          "value": "#a67d00",
+          "type": "color"
+        },
+        "Information Normal :hover": {
+          "value": "#957100",
+          "type": "color"
+        },
+        "Information Normal :active": {
+          "value": "#856400",
+          "type": "color"
+        },
+        "Information Dark": {
+          "value": "#7d5e00",
+          "type": "color"
+        },
+        "Information Dark :hover": {
+          "value": "#644b00",
+          "type": "color"
+        },
+        "Information Dark :active": {
+          "value": "#4b3800",
+          "type": "color"
+        },
+        "Information Darker": {
+          "value": "#3a2c00",
+          "type": "color"
+        },
+        "White Light": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "White Light :hover": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "White Light :active": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "White Normal": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "White Normal :hover": {
+          "value": "#e6e6e6",
+          "type": "color"
+        },
+        "White Normal :active": {
+          "value": "#cccccc",
+          "type": "color"
+        },
+        "White Dark": {
+          "value": "#bfbfbf",
+          "type": "color"
+        },
+        "White Dark :hover": {
+          "value": "#999999",
+          "type": "color"
+        },
+        "White Dark :active": {
+          "value": "#737373",
+          "type": "color"
+        },
+        "White Darker": {
+          "value": "#595959",
+          "type": "color"
+        },
+        "Accent Light": {
+          "value": "#f2f8f3",
+          "type": "color"
+        },
+        "Accent Light :hover": {
+          "value": "#ecf4ed",
+          "type": "color"
+        },
+        "Accent Light :active": {
+          "value": "#d7e9da",
+          "type": "color"
+        },
+        "Accent Normal": {
+          "value": "#7fb888",
+          "type": "color"
+        },
+        "Accent Normal :hover": {
+          "value": "#72a67a",
+          "type": "color"
+        },
+        "Accent Normal :active": {
+          "value": "#66936d",
+          "type": "color"
+        },
+        "Accent Dark": {
+          "value": "#5f8a66",
+          "type": "color"
+        },
+        "Accent Dark :hover": {
+          "value": "#4c6e52",
+          "type": "color"
+        },
+        "Accent Dark :active": {
+          "value": "#39533d",
+          "type": "color"
+        },
+        "Accent Darker": {
+          "value": "#2c4030",
+          "type": "color"
+        },
+        "Inactive Darker": {
+          "value": "#101010",
+          "type": "color"
+        },
+        "Inactive Dark :active": {
+          "value": "#151515",
+          "type": "color"
+        },
+        "Inactive Dark": {
+          "value": "#232323",
+          "type": "color"
+        },
+        "Inactive Normal :active": {
+          "value": "#252525",
+          "type": "color"
+        },
+        "Inactive Normal :hover": {
+          "value": "#292929",
+          "type": "color"
+        },
+        "Inactive Light": {
+          "value": "#eaeaea",
+          "type": "color"
+        },
+        "Inactive Normal": {
+          "value": "#2e2e2e",
+          "type": "color"
+        },
+        "Inactive Dark :hover": {
+          "value": "#1c1c1c",
+          "type": "color"
+        },
+        "Inactive Light :active": {
+          "value": "#bebebe",
+          "type": "color"
+        },
+        "Inactive Light :hover": {
+          "value": "#e0e0e0",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "semantic tokens/Default": {
+    "Semantic Tokens": {
+      "aya": {
+        "color": {
+          "bg": {
+            "white": {
+              "value": "{color.White Light}",
+              "type": "color"
+            },
+            "primary": {
+              "value": "{color.Primary Light}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{color.Disable.Inactive Light}",
+              "type": "color"
+            }
+          },
+          "icon": {
+            "primary": {
+              "value": "{color.Primary Normal :active}",
+              "type": "color"
+            },
+            "default": {
+              "value": "{color.Primary Normal}",
+              "type": "color"
+            },
+            "subtle": {
+              "value": "{color.Primary Light :hover}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "bold": {
+            "value": "{color.Secondary Darker}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{color.Secondary Normal}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.Disable.Inactive Light :active}",
+            "type": "color"
+          },
+          "inverse": {
+            "value": "{color.White Light}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color.Primary Light}",
+            "type": "color"
+          },
+          "brand": {
+            "bold": {
+              "value": "{color.Primary Normal :active}",
+              "type": "color"
+            },
+            "default": {
+              "value": "{color.Primary Normal :hover}",
+              "type": "color"
+            },
+            "subtle": {
+              "value": "{color.Primary Light :hover}",
+              "type": "color"
+            }
+          },
+          "info": {
+            "bold": {
+              "value": "{color.Information Dark}",
+              "type": "color"
+            },
+            "default": {
+              "value": "{color.Information Normal}",
+              "type": "color"
+            },
+            "subtle": {
+              "value": "{color.Information Light}",
+              "type": "color"
+            }
+          }
+        },
+        "border": {
+          "primary": {
+            "value": "{color.Primary Normal}",
+            "type": "color"
+          },
+          "brand": {
+            "value": "{color.Primary Light :active}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
+  "Typography/Default": {
+    "Core Tokens": {
+      "fontFamily": {
+        "body": {
+          "value": "inter",
+          "type": "text"
+        },
+        "caption": {
+          "value": "inter",
+          "type": "text"
+        },
+        "heading": {
+          "value": "inter",
+          "type": "text"
+        },
+        "label": {
+          "value": "inter",
+          "type": "text"
+        }
+      },
+      "fontWeight": {
+        "bold": {
+          "value": "bold",
+          "type": "text"
+        },
+        "medium": {
+          "value": "medium",
+          "type": "text"
+        },
+        "regular": {
+          "value": "Regular",
+          "type": "text"
+        },
+        "semibold": {
+          "value": "semibold",
+          "type": "text"
+        }
+      },
+      "fontSize": {
+        "2xl": {
+          "value": 32,
+          "type": "number"
+        },
+        "3xl": {
+          "value": 64,
+          "type": "number"
+        },
+        "l": {
+          "value": 20,
+          "type": "number"
+        },
+        "m": {
+          "value": 16,
+          "type": "number"
+        },
+        "s": {
+          "value": 14,
+          "type": "number"
+        },
+        "xl": {
+          "value": 24,
+          "type": "number"
+        },
+        "xs": {
+          "value": 12,
+          "type": "number"
+        },
+        "xxs": {
+          "value": 10,
+          "type": "number"
+        }
+      },
+      "lineHeight": {
+        "2xl": {
+          "value": 40,
+          "type": "number"
+        },
+        "3xl": {
+          "value": 72,
+          "type": "number"
+        },
+        "l": {
+          "value": 24,
+          "type": "number"
+        },
+        "m": {
+          "value": 20,
+          "type": "number"
+        },
+        "s": {
+          "value": 16,
+          "type": "number"
+        },
+        "xl": {
+          "value": 32,
+          "type": "number"
+        },
+        "xs": {
+          "value": 12,
+          "type": "number"
+        }
+      },
+      "spacing": {
+        "2xl": {
+          "value": 32,
+          "type": "number"
+        },
+        "3xl": {
+          "value": 48,
+          "type": "number"
+        },
+        "l": {
+          "value": 16,
+          "type": "number"
+        },
+        "m": {
+          "value": 8,
+          "type": "number"
+        },
+        "none": {
+          "value": 0,
+          "type": "number"
+        },
+        "s": {
+          "value": 4,
+          "type": "number"
+        },
+        "xl": {
+          "value": 24,
+          "type": "number"
+        },
+        "xs": {
+          "value": 2,
+          "type": "number"
+        }
+      },
+      "borderWidth": {
+        "1": {
+          "value": 1,
+          "type": "number"
+        },
+        "2": {
+          "value": 2,
+          "type": "number"
+        }
+      },
+      "radius": {
+        "circle": {
+          "value": 900,
+          "type": "number"
+        },
+        "lg": {
+          "value": 32,
+          "type": "number"
+        },
+        "m": {
+          "value": 16,
+          "type": "number"
+        },
+        "s": {
+          "value": 8,
+          "type": "number"
+        },
+        "xs": {
+          "value": 4,
+          "type": "number"
+        }
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Core tokens/Default",
+      "semantic tokens/Default",
+      "Typography/Default"
+    ]
+  }
+}
